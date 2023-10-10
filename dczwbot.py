@@ -94,4 +94,4 @@ async def on_ready():
     await voice_channel.connect()
 
 
-client.run("MTE1Mjc5MDA3OTQ5NzA1NjM1Ng.GDC8wI.shFgt_9NctAAbkK5NgOh40eT5u1HcjHSaHH6J4")
+client.run("ABC123456")
