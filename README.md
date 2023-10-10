@@ -1,0 +1,2 @@
+# ZhaowenDiscordBot
+a discord bot
